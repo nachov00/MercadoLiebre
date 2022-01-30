@@ -1,3 +1,0 @@
-let funcionDeTareas = require("./app");
-
-
